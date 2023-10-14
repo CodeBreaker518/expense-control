@@ -1,5 +1,3 @@
-import { faCircleQuestion } from '@fortawesome/free-regular-svg-icons'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { useState, useEffect } from 'react'
 import { CircularProgressbar, buildStyles } from 'react-circular-progressbar'
 import TippyTooltip from '../tippy-tooltip/TippyTooltip'
