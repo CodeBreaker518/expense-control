@@ -1,7 +1,7 @@
+import '../react-swipeable-list.css'
 import PropTypes from 'prop-types'
 
 import { LeadingActions, SwipeableList, SwipeableListItem, SwipeAction, TrailingActions } from 'react-swipeable-list'
-import 'react-swipeable-list/dist/styles.css/'
 
 import { formatDate } from '../helpers/formatDate'
 
