@@ -1,8 +1,24 @@
-# React + Vite
+# Expense Control
+App that allows you to have a expenses control for your daily/ monthly or yearly, allows you to list your expenses, categorize them, edit them, eliminate them and reset the app to start again.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack:
 
-Currently, two official plugins are available:
+- HTML
+- CSS
+- TailWindCSS
+- React.js
+- JavaScript
+- Saving expenses with localStorage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Packages/dependencies:
+- @fortawesome/react-fontawesome
+- react-circular-progressbar
+- react-swipeable-list
+- @tippyjs/react
+
+## Deploy
+Deploy: [Netlify](https://expenses-control-codebreaker518.netlify.app/)
+
+Language of the website on Spanish, soon on English..
+
+
