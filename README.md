@@ -1,5 +1,5 @@
 # Expense Control
-App that allows you to have a expenses control for your daily/ monthly or yearly, allows you to list your expenses, categorize them, edit them, eliminate them and reset the app to start again.
+App that allows you to have a expenses control for your daily/ monthly or yearly, allows you to add, filter, categorize, edit and eliminate your expenses and reset the app to start again.
 
 ## Tech Stack:
 
